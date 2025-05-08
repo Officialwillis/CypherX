@@ -9,7 +9,7 @@
     {
       "plan": "heroku-postgresql"
     }
-  ],
+},
   "scripts": {
     "start": "node index.js"
   },
