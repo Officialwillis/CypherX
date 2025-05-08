@@ -5,7 +5,7 @@
   "keywords": [],
   "repository": "https://github.com/Dark-Xploit/CypherX",
   "stack": "container",
-  "addons": [
+  "addons": [],
     {
       "plan": "heroku-postgresql"
     }
